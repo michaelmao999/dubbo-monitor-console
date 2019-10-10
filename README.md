@@ -1,12 +1,12 @@
-# dubbokeeper-mqs
+# dubbo-monitor
 
-## dubbokeeper-mqs是什么
+## dubbo-monitor是什么
 
-dubbokeeper-mqs是基于Spring mvc开发的社区版dubboadmin集成服务管理以及服务监控一体的DUBBO服务管理系统，自[dubbokeeper](https://github.com/dubboclub/dubbokeeper)基础上整合而成的**MySQL快速启动版**，并新增服务预警接口、权限登录功能
+dubbo-monitor是基于Spring mvc开发的社区版dubboadmin集成服务管理以及服务监控一体的DUBBO服务管理系统，自[dubbokeeper](https://github.com/dubboclub/dubbokeeper)基础上整合而成的**MySQL快速启动版**，并新增服务预警接口、权限登录功能
 
-dubbokeeper-mqs集成监控与展示，节省服务器资源，提供一键编译部署
+dubbo-monitor集成监控与展示，节省服务器资源，提供一键编译部署
 
-## dubbokeeper-mqs包含哪些功能
+## dubbo-monitor包含哪些功能
 
 - 应用管理
 - 动态配置
